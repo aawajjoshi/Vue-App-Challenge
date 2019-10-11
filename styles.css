@@ -1,0 +1,24 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: "Montserrat";
+    font-weight: 400;
+    background-color: #f7fbfc;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Montserrat";
+    font-weight: 900;
+  }
+  
+  p {
+    /* color: #8f8f8f; */
+    color: #545454;
+  }
